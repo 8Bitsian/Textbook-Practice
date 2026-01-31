@@ -29,4 +29,4 @@
 - Classes & Object-Orientied Programming
 - Inheritance
 - Database Programming
-- GUI Programming, Applications, & Event Programming
+- Front-End Development
