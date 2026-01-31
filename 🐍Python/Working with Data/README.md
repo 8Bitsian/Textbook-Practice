@@ -6,8 +6,8 @@
 
 ### 🗃️ Folders
 - Lists & Tuples
-- Single Arrays
+- Single and Multimensional Arrays
 - More About Strings
 - Text Processing
 - Dictionaries & Sets
-- Sorting & Searching (Multidimensional) Arrays
+- Sorting & Searching Arrays
