@@ -4,7 +4,7 @@
 📗 I am referencing Starting Out with Python 5E by Tony Gaddis.<br/>
 📔 I am referencing Starting Out with Programming Logic and Design 5E by Tony Gaddis
 
-### 📂 Folders
+### 🗃️ Folders
 - Input, Processing, & Output
 - Decision Structures & Boolean Logic
 - Repetition Structures
