@@ -1,7 +1,7 @@
 ## 🛃 Textbook Practice
 ℹ️ Various practice problems with my textbooks for C++.<br/>
 *️⃣ I utilize JetBrains [IntelliJ Idea](https://www.jetbrains.com/idea/) and [Visual Studio](https://vscode.dev/) as my IDEs.<br/>
-📕 I am referencing Starting Out with C++ from Control Structures to Objects 10E by Tony Gaddis.<br/>
+📘 I am referencing Starting Out with C++ from Control Structures to Objects 10E by Tony Gaddis.<br/>
 
 ### 📂 Folders
 0️⃣0️⃣<br/>
