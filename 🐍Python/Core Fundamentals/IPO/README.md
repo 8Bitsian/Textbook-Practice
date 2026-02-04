@@ -6,6 +6,5 @@
 
 ### 📑 Files
 `PersonalInfo.py` `SalesPrediction.py` `LandCalculation.py` `TotalPurchase.py` `DistanceTraveled.py`<br/>
-`SalesTax.py` `MilesPerGallon.py` `TipTaxTotal.py` `CustomerAcquisition.py` `PaymentOverTime.py`<br/>
-`LeftoverPizza.py` `TempConverter.py` `StockTransition.py` `DegreePercentages.py` `IngredientAdjuster.py`<br/>
-`GenderPercentages.py` `PlantingGrapevines.py` `CompoundInterest.py` `TurtleGraphicsDrawings.py`<br/>
+`SalesTax.py` `MilesPerGallon.py` `TipTaxTotal.py` `WeightLoss.py` `CustomerAcquisition.py`<br/>
+`PaymentOverTime.py` `LeftoverPizza.py` `TempConverter.py` `StockTransition.py` `DegreePercentages.py`<br/> `IngredientAdjuster.py` `GenderPercentages.py` `PlantingGrapevines.py` `CompoundInterest.py` `TurtleGraphicsDrawings.py`<br/>
