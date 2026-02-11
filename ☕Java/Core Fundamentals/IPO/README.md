@@ -7,5 +7,5 @@
 ### 📑 Files
 `PersonalInfo.java` `SalesPrediction.java` `LandCalculation.java` `TotalPurchase.java` `DistanceTraveled.java`<br/>
 `SalesTax.java` `MilesPerGallon.java` `TipTaxTotal.java` `WeightLoss.java` `PaymentOverTime.java`<br/>
-`LeftoverPizza.py` `TempConverter.py` `StockTransition.py` `CookieCalories.py` `DegreePercentages.py`<br/>
-`IngredientAdjuster.py` <br/>
+`LeftoverPizza.java` `TempConverter.java` `StockTransition.java` `CookieCalories.java` `DegreePercentages.java`<br/>
+`IngredientAdjuster.java` <br/>
