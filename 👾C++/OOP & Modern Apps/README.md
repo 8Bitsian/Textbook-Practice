@@ -5,9 +5,8 @@
 📔 I am referencing Starting Out with Programming Logic and Design 5E by Tony Gaddis
 
 ### 🗃️ Folders
-- Introduction to Classes
+- Classes
 - Object-Orientied Programming
-- More About Classes
 - Inheritance, Polymorphsim, & Virtual Functions
 - Exceptions & Templates
 - The Standard Template Library (STL)
