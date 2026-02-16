@@ -6,6 +6,8 @@
 
 ### 🗃️ Folders
 📂 *Core Fundamentals*
+- Introduction to C++
+- Expression & Interactivity
 - Input, Processing, & Output
 - Decision Structures & Boolean Logic
 - Repetition Structures
@@ -13,21 +15,27 @@
 - Input Validation
 
 📂 *Working with Data*
-- Lists & Tuples
-- Single Arrays
-- More About Strings
+- Single Arrays, Vectors, & Lists
+- Sorting & Searching Arrays
+- Structured Data
+- Pointers
+- Characters, C-Strings, & Basic String Handling
 - Text Processing
-- Dictionaries & Sets
-- Sorting & Searching (Multidimensional) Arrays
+- Advanced File Operations
 
 📂 *Advanced Logic & External Data*
 - Files & Exceptions
 - Recursion
 - Menu-Driven Programs
+- Linked Lists
+- Stacks & Queues
+- Binary Trees
 
 📂 *OOP & Modern Apps*
-- Classes & Object-Orientied Programming
-- Inheritance
-- Database Programming
-- Front-End Development
-
+- Introduction to Classes
+- Object-Orientied Programming
+- More About Classes
+- Inheritance, Polymorphsim, & Virtual Functions
+- Exceptions & Templates
+- The Standard Template Library (STL)
+- GUI Applications & Event-Driven Programming
