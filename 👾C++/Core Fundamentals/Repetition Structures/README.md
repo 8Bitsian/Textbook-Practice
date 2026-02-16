@@ -5,6 +5,10 @@
 📔 I am referencing [Chapter 5](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sow_pld_5/cw/#videonotes) of Starting Out with Programming Logic and Design 5E by Tony Gaddis.
 
 ### 📑 Files
-`.cpp` `.cpp` `.cpp` `.cpp` `.cpp`<br/>
-`.cpp` `.cpp` `.cpp` `.cpp` `.cpp`<br/>
-`.cpp` `.cpp` `.cpp` `.cpp` `.cpp`
+`SumOfNumbers.cpp` `CharForAsciiCodes.cpp` `OceanLevels.cpp` `CaloriesBurned.cpp` `MembershipFees.cpp`<br/>
+`DistanceTraveled.cpp` `PenniesForPay.cpp` `MathTutor.cpp` `HotelOccupancy.cpp` `AverageRainfall.cpp`<br/>
+`Population.cpp` `TempTable.cpp` `GreaterAndLeast.cpp` `StudentLineUp.cpp` `PayrollReport.cpp`<br/>
+`SavingsAccount.cpp` `SalesBarChart.cpp` `PopulationBarChart.cpp` `BudgetAnalysis.cpp` `RandomNumber.cpp`<br/>
+`SquareDisplay.cpp` `PatternDisplays.cpp` `NumericProcessing.cpp` `StudentLineUp.cpp` `PersonalWebPage.cpp`<br/>
+`AverageStepsTaken.cpp` `BugCollector.cpp` `BudgetAnalysis.cpp` `TuitionIncrease.cpp` `FirstAndLast.cpp`<br/>
+`FactorialOfANumber.cpp` `MultiplicationTable.cpp`
