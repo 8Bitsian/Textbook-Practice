@@ -30,9 +30,8 @@
 - Binary Trees
 
 📂 *OOP & Modern Apps*
-- Introduction to Classes
+- Classes
 - Object-Orientied Programming
-- More About Classes
 - Inheritance, Polymorphsim, & Virtual Functions
 - Exceptions & Templates
 - The Standard Template Library (STL)
