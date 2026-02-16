@@ -11,7 +11,7 @@
 - Input, Processing, & Output
 - Decision Structures & Boolean Logic
 - Repetition Structures
-- Modules & Functions
+- Functions
 - Input Validation
 
 📂 *Working with Data*
