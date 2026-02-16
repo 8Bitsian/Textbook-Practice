@@ -5,6 +5,8 @@
 📔 I am referencing Starting Out with Programming Logic and Design 5E by Tony Gaddis
 
 ### 🗃️ Folders
+- Introduction to C++
+- Expression & Interactivity
 - Input, Processing, & Output
 - Decision Structures & Boolean Logic
 - Repetition Structures
