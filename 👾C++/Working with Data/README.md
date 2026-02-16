@@ -10,4 +10,3 @@
 - Structured Data
 - Pointers
 - Text Processing
-- Advanced File Operations
