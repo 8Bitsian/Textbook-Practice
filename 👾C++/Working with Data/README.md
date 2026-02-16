@@ -9,6 +9,5 @@
 - Sorting & Searching Arrays
 - Structured Data
 - Pointers
-- Characters, C-Strings, & Basic String Handling
 - Text Processing
 - Advanced File Operations
