@@ -20,10 +20,9 @@
 - Structured Data
 - Pointers
 - Text Processing
-- Advanced File Operations
 
 📂 *Advanced Logic & External Data*
-- Files & Exceptions
+- Files & Operations
 - Recursion
 - Menu-Driven Programs
 - Linked Lists
