@@ -4,6 +4,4 @@
 📔 I am referencing [Chapter 7](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_sow_pld_5/cw/#videonotes) of Starting Out with Programming Logic and Design 5E by Tony Gaddis.
 
 ### 📑 Files
-`.cpp` `.cpp` `.cpp` `.cpp` `.cpp`<br/>
-`.cpp` `.cpp` `.cpp` `.cpp` `.cpp`<br/>
-`.cpp` `.cpp` `.cpp` `.cpp` `.cpp`
+`PayrollProgram.cpp` `TheaterSeating.cpp` `FatGramCalculator.cpp` `SpeedingViolationCalc.cpp` `RockPaperScissors.cpp`
