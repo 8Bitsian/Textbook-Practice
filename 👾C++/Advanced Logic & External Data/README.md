@@ -5,7 +5,7 @@
 📔 I am referencing Starting Out with Programming Logic and Design 5E by Tony Gaddis
 
 ### 🗃️ Folders
-- Files & Exceptions
+- Files & Operations
 - Recursion
 - Menu-Driven Programs
 - Linked Lists
