@@ -13,6 +13,5 @@
 - Binary I/O
 - Lists, Stacks, Queues, & Priority Queues
 - Sets & Maps
-- Implementing Lists, Stacks, Queues, & Priority Queues
 - Hashing
 - Aggregate Operations & Collection Streams
