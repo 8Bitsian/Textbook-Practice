@@ -7,19 +7,13 @@
 ### 🗃️ Folders
 - Object-Orientied Programming
 - Objects & Classes
-- Thinking in Objects
 - Inheritance & Polymorphism
 - Abstract Classes & Interfaces
 - GUI Applications & Event-Driven Programming
-- JavaFX Basics
-- Event-Driven Programming & Animations
-- JavaFX Controls & Multimedia
-- Advanced JavaFX & FXML
+- JavaFX & FXML
 - Java Database Programming
-- Advanced Java Database Programming
 - Internationalization
 - Services
-- JavaServer Pages
-- JavaServer Faces
+- JavaServer
 - RMI
 - Testing Using JUnit
