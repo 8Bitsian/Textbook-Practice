@@ -29,12 +29,8 @@
 - Menu-Driven Programs
 - Recursion
 - Developing Efficient Algorithms
-- Binary Search Trees
-- AVL Trees
-- Trees & B-Trees
-- Red-Black Trees
+- Trees
 - Graphs & Applications
-- Weighted Graphs & Applications
 - Multithreading & Parallel Programming
 - Networking
 - Web Services
@@ -42,19 +38,13 @@
 📂 *OOP & Modern Apps*
 - Object-Orientied Programming
 - Objects & Classes
-- Thinking in Objects
 - Inheritance & Polymorphism
 - Abstract Classes & Interfaces
 - GUI Applications & Event-Driven Programming
-- JavaFX Basics
-- Event-Driven Programming & Animations
-- JavaFX Controls & Multimedia
-- Advanced JavaFX & FXML
+- JavaFX & FXML
 - Java Database Programming
-- Advanced Java Database Programming
 - Internationalization
 - Services
-- JavaServer Pages
-- JavaServer Faces
+- JavaServer
 - RMI
 - Testing Using JUnit
