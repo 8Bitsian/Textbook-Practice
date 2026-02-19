@@ -8,7 +8,6 @@
 - Single-Dimensional Arrays
 - Multidimensional Arrays
 - Sorting & Searching Arrays
-- Sorting
 - Text Processing
 - Exception Handling & Test I/O
 - Binary I/O
