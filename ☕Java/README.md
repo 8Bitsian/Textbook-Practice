@@ -14,15 +14,14 @@
 - Input Validation
 
 📂 *Working with Data*
-- Arrays
+- Single-Dimensional Arrays
+- Multidimensional Arrays
 - Sorting & Searching Arrays
-- Sorting
 - Text Processing
 - Exception Handling & Test I/O
 - Binary I/O
 - Lists, Stacks, Queues, & Priority Queues
 - Sets & Maps
-- Implementing Lists, Stacks, Queues, & Priority Queues
 - Hashing
 - Aggregate Operations & Collection Streams
 
