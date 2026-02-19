@@ -6,7 +6,11 @@
 
 ### 🗃️ Folders
 - Input, Processing, & Output
+- Elementary Programming
+- Mathematical Functions, Characters, & Strings
 - Decision Structures & Boolean Logic
-- Repetition Structures
-- Modules & Functions
+- Selections
+- Repetition Structures & Loops
+- Modules
+- Methods & Functions
 - Input Validation
