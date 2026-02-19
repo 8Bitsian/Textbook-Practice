@@ -8,7 +8,7 @@
 - Single-Dimensional Arrays
 - Multidimensional Arrays
 - Sorting & Searching Arrays
-- Exception Handling & Test I/O
+- Exception Handling & Text I/O
 - Binary I/O
 - Lists, Stacks, Queues, & Priority Queues
 - Sets & Maps
