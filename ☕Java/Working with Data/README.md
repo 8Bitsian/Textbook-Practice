@@ -10,6 +10,7 @@
 - Sorting & Searching Arrays
 - Exception Handling & Text I/O
 - Binary I/O
+- Generics
 - Lists, Stacks, Queues, & Priority Queues
 - Sets & Maps
 - Hashing
