@@ -6,7 +6,6 @@
 
 ### 🗃️ Folders
 - Object-Orientied Programming
-- Objects & Classes
 - Inheritance & Polymorphism
 - Abstract Classes & Interfaces
 - GUI Applications & Event-Driven Programming
