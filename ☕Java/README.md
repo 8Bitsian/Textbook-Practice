@@ -7,26 +7,59 @@
 ### 🗃️ Folders
 📂 *Core Fundamentals*
 - Input, Processing, & Output
+- Elementary Programming
+- Mathematical Functions, Characters, & Strings
 - Decision Structures & Boolean Logic
-- Repetition Structures
-- Modules & Functions
+- Selections
+- Repetition Structures & Loops
+- Modules
+- Methods & Functions
 - Input Validation
 
 📂 *Working with Data*
-- Lists & Tuples
-- Single Arrays
-- More About Strings
+- Arrays
+- Sorting & Searching Arrays
+- Sorting
 - Text Processing
-- Dictionaries & Sets
-- Sorting & Searching (Multidimensional) Arrays
+- Exception Handling & Test I/O
+- Binary I/O
+- Lists, Stacks, Queues, & Priority Queues
+- Sets & Maps
+- Implementing Lists, Stacks, Queues, & Priority Queues
+- Hashing
+- Aggregate Operations & Collection Streams
 
 📂 *Advanced Logic & External Data*
-- Files & Exceptions
-- Recursion
+- Files
 - Menu-Driven Programs
+- Recursion
+- Developing Efficient Algorithms
+- Binary Search Trees
+- AVL Trees
+- Trees & B-Trees
+- Red-Black Trees
+- Graphs & Applications
+- Weighted Graphs & Applications
+- Multithreading & Parallel Programming
+- Networking
+- Web Services
 
 📂 *OOP & Modern Apps*
-- Classes & Object-Orientied Programming
-- Inheritance
-- Database Programming
-- Front-End Development
+- Object-Orientied Programming
+- Objects & Classes
+- Thinking in Objects
+- Inheritance & Polymorphism
+- Abstract Classes & Interfaces
+- GUI Applications & Event-Driven Programming
+- JavaFX Basics
+- Event-Driven Programming & Animations
+- JavaFX Controls & Multimedia
+- Advanced JavaFX & FXML
+- Java Database Programming
+- Advanced Java Database Programming
+- Internationalization
+- Services
+- JavaServer Pages
+- JavaServer Faces
+- RMI
+- Testing Using JUnit
