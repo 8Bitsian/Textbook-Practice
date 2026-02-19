@@ -9,12 +9,8 @@
 - Menu-Driven Programs
 - Recursion
 - Developing Efficient Algorithms
-- Binary Search Trees
-- AVL Trees
-- Trees & B-Trees
-- Red-Black Trees
+- Trees
 - Graphs & Applications
-- Weighted Graphs & Applications
 - Multithreading & Parallel Programming
 - Networking
 - Web Services
