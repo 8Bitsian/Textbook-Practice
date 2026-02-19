@@ -45,5 +45,5 @@
 - Java Database Programming
 - Internationalization
 - JavaServer
-- RMI
+- Remote Method Invocation
 - Testing Using JUnit
