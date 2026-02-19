@@ -12,7 +12,6 @@
 - JavaFX & FXML
 - Java Database Programming
 - Internationalization
-- Services
 - JavaServer
 - RMI
 - Testing Using JUnit
