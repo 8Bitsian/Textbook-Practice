@@ -46,9 +46,13 @@ int main() {
          << right << setw(15) << "Distance (m)\n";
     cout << string(28, '-') << "\n";
     // Rows
-    // Loop from 1 to 10 seconds or until reaching user time
+    int start = totalSeconds; // Loop from user input DOWN to a maximum of 10 intervals
+    int end = start - 9; // 10 intervals maximum
+
+    if (end < 0) end = 0; // Do not go below 0 (prevent negative seconds)
+    
     // Call fallingDistance() to caculate and display time and distance
-    for (int t = 1; t <=10 && t <= totalSeconds; t++) {
+    for (int t = start; t >= end; t--) {
       cout << left << setw(12) << (to_string(t) + " sec")
            << right << setw(15) << fallingDistance(t) << "\n";
     }
