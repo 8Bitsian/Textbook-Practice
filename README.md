@@ -9,5 +9,5 @@
 📘 Starting Out with C++ from Control Structures to Objects 10E by Tony Gaddis and the [companion website](https://media.pearsoncmg.com/ph/esm/ecs_gaddis_cpp10e_REVEL/cw/)<br/>
 
 ### 🌐 Websites
-🌐 [C++.com](https://cplusplus.com/)
-🌐 [W3Schools](https://www.w3schools.com/)
+🌐 [C++.com](https://cplusplus.com/)<br/>
+🌐 [W3Schools.com](https://www.w3schools.com/)
